@@ -4,10 +4,14 @@ import { HttpClientModule } from '@angular/common/http';
 import { FormsModule }   from '@angular/forms';
 
 import { AppComponent } from './app.component';
+import { WeatherComponent } from './components/weather/weather.component';
+import { WeatherFormComponent } from './components/weather-form/weather-form.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    WeatherComponent,
+    WeatherFormComponent
   ],
   imports: [
     BrowserModule,
