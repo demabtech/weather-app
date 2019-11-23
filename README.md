@@ -1,3 +1,11 @@
+# Weather App Preview
+
+![1](https://user-images.githubusercontent.com/50550221/69486540-d85af680-0e1a-11ea-8bd9-afa81191936f.PNG)
+
+![2](https://user-images.githubusercontent.com/50550221/69486541-d85af680-0e1a-11ea-90e1-a0efd477cc82.PNG)
+
+![3](https://user-images.githubusercontent.com/50550221/69486542-d85af680-0e1a-11ea-8f15-16840f8e8345.PNG)
+
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
