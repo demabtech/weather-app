@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'weather-app';
+  
+  city: string;
+  country: string;
+
+  onSent(valuesForm: any) {
+    this.city = valuesForm.city;
+    this.country = valuesForm.country;
+  }
+  
 }
